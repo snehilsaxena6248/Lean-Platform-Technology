@@ -1,0 +1,85 @@
+.f {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 790px;
+  padding: 30px 84px 10px;
+  position: relative;
+
+}
+
+.f .u {
+  height: 53px;
+  object-fit: cover;
+  position: relative;
+  width: 250px;
+}
+
+.f .n {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.f .t {
+  color: #1e1e1e;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.f .ic-round-search {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.f .vector {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.f .div {
+  color: #363fe8;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.f .div-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #363fe8;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.f .text-wrapper-2 {
+  color: #363fe8;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
